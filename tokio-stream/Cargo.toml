@@ -1,5 +1,5 @@
 [package]
-name = "lumos-tokio-stream"
+name = "tokio-stream"
 # When releasing to crates.io:
 # - Remove path dependencies
 # - Update CHANGELOG.md.
