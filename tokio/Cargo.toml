@@ -1,5 +1,5 @@
 [package]
-name = "lumos-tokio"
+name = "tokio"
 # When releasing to crates.io:
 # - Remove path dependencies
 # - Update doc url
